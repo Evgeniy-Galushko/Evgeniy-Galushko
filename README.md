@@ -8,6 +8,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,11 +17,39 @@ Here are some ideas to get you started:
 - 🌍 I speak Russian (native), Ukrainian (native).
  -->
 
+ <h3>About me:</h3>
+
+- 📫 How to reach me: yudginchik@gmail.com
+- 🌍 I speak Russian (native), Ukrainian (native).
+
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/halushko-yevhen-5ab439353/" target="blank" width="30" height="30">
-<svg width="30" height="30">
-<use href="./icons/linkedin.svg"></use>
-</svg></a>
+<p><a href="https://www.linkedin.com/in/halushko-yevhen-5ab439353/" target="blank" width="30" height="30">
+<img src="./icons/linkedin.svg" alt="linkedin" /></a>
+<a href="https://t.me/EvgeniyGalushko" target="blank" width="30" height="30">
+<img src="./icons/telegram.svg" alt="telegram" /></a>
+</p>
 
-![](./icons/linkedin.svg)![](https://www.linkedin.com/in/halushko-yevhen-5ab439353/)
+<h3>Languages:</h3>
+
+<p>
+<img src="./icons/html.svg" alt="html" />
+<img src="./icons/css-3.svg" alt="css" />
+<img src="./icons/js.svg" alt="js" />
+<img src="./icons/react.svg" alt="react" />
+<img src="./icons/node2_js.svg" alt="node" />
+<img src="./icons/express.svg" alt="express" />
+<img src="./icons/mongodb.svg" alt="mongodb" />
+</p>
+
+<h3>Tools:</h3>
+
+<p>
+<img src="./icons/vscode.svg" alt="vscode" />
+<img src="./icons/postman.svg" alt="postman" />
+<img src="./icons/mongodb_compass.svg" alt="mongodb" />
+<img src="./icons/figma.svg" alt="figma" />
+<!-- <img src="./icons/node2_js.svg" alt="node" /> -->
+<!-- <img src="./icons/express.svg" alt="express" /> -->
+<!-- <img src="./icons/mongodb.svg" alt="mongo" /> -->
+</p>
