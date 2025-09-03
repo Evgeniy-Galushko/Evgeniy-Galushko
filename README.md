@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/halushko-yevhen-5ab439353/" target="blank"><img src="./icon/linkedin.svg" alt="linkedin" width="30"height="30" /></a>
+<a href="https://www.linkedin.com/in/halushko-yevhen-5ab439353/" target="blank" width="30" height="30">"./icon/linkedin.svg"</a>
