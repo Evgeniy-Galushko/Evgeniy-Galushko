@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, my name is <a href="https://portfoliohalushkoyevhen.vercel.app/" target="blank">Evgeniy</a> :sunglasses:</h1>
 
-<h3 align="center">I am a Fullstack developer.</h3>
+<!-- <h3 align="center">I am a Fullstack developer.</h3> -->
 
 <!-- **Evgeniy-Galushko/Evgeniy-Galushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,4 +63,4 @@ I am a FullStack Developer 🧑‍💻 from Ukraine.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Galushko&langs_count=15&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Evgeniy-Galushko&style=flat-square)
