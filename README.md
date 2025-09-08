@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 I am a FullStack Developer 🧑‍💻 from Ukraine.
 
+- 🤝 I’m open to callaborating on interesting projects
 - 📫 How to reach me: yudginchik@gmail.com
 - 🌍 I speak Russian (native), Ukrainian (native).
 
@@ -60,4 +61,6 @@ I am a FullStack Developer 🧑‍💻 from Ukraine.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Evgeniy-Galushko)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Galushko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Galushko&langs_count=15&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
