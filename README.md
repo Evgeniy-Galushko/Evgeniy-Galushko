@@ -19,20 +19,22 @@ Here are some ideas to get you started:
 
  <h3>About me:</h3>
 
+I am a FullStack Developer 🧑‍💻 from Ukraine.
+
 - 📫 How to reach me: yudginchik@gmail.com
 - 🌍 I speak Russian (native), Ukrainian (native).
 
 <h3>Connect with me:</h3>
 
-<p><a href="https://www.linkedin.com/in/halushko-yevhen-5ab439353/" target="blank" width="30" height="30">
+<div><a href="https://www.linkedin.com/in/halushko-yevhen-5ab439353/" target="blank" width="30" height="30">
 <img src="./icons/linkedin.svg" alt="linkedin" /></a>
 <a href="https://t.me/EvgeniyGalushko" target="blank" width="30" height="30">
 <img src="./icons/telegram.svg" alt="telegram" /></a>
-</p>
+</div>
 
 <h3>Languages:</h3>
 
-<p>
+<div>
 <img src="./icons/html.svg" alt="html" />
 <img src="./icons/css-3.svg" alt="css" />
 <img src="./icons/js.svg" alt="js" />
@@ -40,11 +42,11 @@ Here are some ideas to get you started:
 <img src="./icons/node2_js.svg" alt="node" />
 <img src="./icons/express.svg" alt="express" />
 <img src="./icons/mongodb.svg" alt="mongodb" />
-</p>
+</в>
 
 <h3>Tools:</h3>
 
-<p>
+<div>
 <img src="./icons/vscode.svg" alt="vscode" />
 <img src="./icons/postman.svg" alt="postman" />
 <img src="./icons/mongodb_compass.svg" alt="mongodb" />
@@ -52,4 +54,10 @@ Here are some ideas to get you started:
 <!-- <img src="./icons/node2_js.svg" alt="node" /> -->
 <!-- <img src="./icons/express.svg" alt="express" /> -->
 <!-- <img src="./icons/mongodb.svg" alt="mongo" /> -->
-</p>
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Evgeniy-Galushko)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Galushko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
