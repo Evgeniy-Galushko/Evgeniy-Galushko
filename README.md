@@ -1,6 +1,6 @@
 <!-- ## Hi, my name is Evgeniy -->
 
-<h1 align="center">Hi, my name is <a href="https://portfoliohalushkoyevhen.vercel.app/" target="blank">Evgeniy</a> :sunglasses:</h1>
+<h1 align="center">Hi, my name is <a href="https://portfoliohalushkoyevhen.vercel.app/" target="_blank">Evgeniy</a> :sunglasses:</h1>
 
 <h3 align="center">I am a Fullstack developer.</h3>
 
